@@ -92,6 +92,7 @@ Protocol:    TCP
 
 
 ⚠️ Prediction: PortScan
+
 🌐 Network Switching
 
 NetSentinel AI analyzes traffic available through the active network interface.
@@ -111,7 +112,6 @@ Mobile Hotspot
 NetSentinel AI
       ↓
 New Network Traffic Analysis
-
 The same detection pipeline can be used to analyze traffic from the newly active network connection.
 
 🗄️ Database
@@ -136,8 +136,8 @@ Example labels:
 * DDoS
 * PortScan
 * 
-🏗️ Project Architecture
-Network Interface
+🏗️ Project Architecture:- 
+ Network Interface
        ↓
 Packet Capture
        ↓
